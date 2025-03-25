@@ -1,2 +1,5 @@
-# apollo-client-local-state
-Apollo client local state management
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+## Getting Started
+
+- npm install @apollo/client graphql
